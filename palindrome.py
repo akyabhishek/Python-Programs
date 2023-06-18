@@ -1,4 +1,4 @@
-#. Write a program to check whether a number input by the user is a palindrome or not
+#. Write a program to check whether a number input by the user is a palindrome or not in python
 
 def palindrome(n):
     rev=0
